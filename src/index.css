@@ -1,7 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@1,6..12,600&display=swap");
 * {
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
+	font-family: "Nunito Sans", sans-serif;
 }
 ul li {
 	text-decoration: none;
@@ -58,10 +60,10 @@ form {
 	background-color: rgba(0, 128, 128, 0.427);
 	padding: 1rem;
 	border-radius: 0.25rem;
+	color: snow;
 }
 
 label {
-	color: snow;
 	display: flex;
 	justify-content: center;
 	align-items: center;

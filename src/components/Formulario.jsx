@@ -87,7 +87,7 @@ const Formulario = () => {
 			</form>
 			{error ? (
 				<span className="error">
-					Todos los campos son obligatorios..{" "}
+					Todos los campos son obligatorios ⚠{" "}
 				</span>
 			) : (
 				""
