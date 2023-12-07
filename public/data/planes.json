@@ -1,0 +1,12 @@
+[
+    {
+        "id" : 1,
+        "plan" : "Contra Terceros",
+        "tarifaplan" : 1.2
+    },
+    {
+        "id" : 2,
+        "plan" : "Contra Todo Riesgo",
+        "tarifaplan" : 2.5
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "id" : 1,
+        "vehiculo" : "Auto",
+        "tarifa" : 2.5
+    },
+    {
+        "id" : 2,
+        "vehiculo" : "Moto",
+        "tarifa" : 1.5
+    },
+    {
+        "id" : 3,
+        "vehiculo" : "Embarcacion",
+        "tarifa" : 2
+    },
+    {
+        "id" : 4,
+        "vehiculo" : "Avion",
+        "tarifa" : 5
+    }
+    
+]
