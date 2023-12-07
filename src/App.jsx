@@ -45,11 +45,10 @@ const App = () => {
 	const [activ, setActive] = useState("true");
 
 	let componente;
-	if (total === 0) {
-		componente = <Resumen />;
-	} else {
-		componente = <Resultado />;
+	{
+		total === 0 ? (componente = <Resumen />) : (componente = <Resultado />);
 	}
+
 	return (
 		<AppContext.Provider
 			value={{
